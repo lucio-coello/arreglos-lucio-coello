@@ -1,0 +1,37 @@
+OBJETIVOS PROPUESTO DE LA CONSIGNA:
+Reforzar el aprendizaje de utilización de vectores en C.
+
+Aplicar el uso de vectores y matrices para resolver un problema computacional.
+
+Reforzar el análisis de problemas para plantear una solución computacional.
+
+INDICACIONES:
+Descripción del Problema:
+Una escuela desea implementar un programa en C que le permita gestionar las calificaciones de un grupo de estudiantes en varias asignaturas. Además de gestionar las calificaciones, el programa debe calcular y mostrar información relevante como el promedio de calificaciones por estudiante y por asignatura, la calificación más alta y baja, y cuántos estudiantes aprobaron cada asignatura.
+
+Antes de comenzar a programar debe responder a las siguientes preguntas:
+
+¿Cómo organizamos los datos (matrices o vectores)?
+
+¿Qué cálculos son necesarios?
+
+¿Cómo manejamos la validación de entradas?
+
+¿Cómo visualizamos los resultados de manera clara?
+
+Requerimientos funcionales del programa:
+El número de estudiantes será 5 y de asignaturas 3.
+
+El programa debe pedir las calificaciones de cada estudiante en cada asignatura.
+
+Validar que las calificaciones ingresadas estén en el rango de 0 a 10.
+
+El programa debe ser capaz de realizar las siguientes tareas:
+
+Calcular el promedio de calificaciones para cada estudiante.
+
+Calcular el promedio por asignatura.
+
+Encontrar la calificación más alta y baja por estudiante y por asignatura.
+
+Determinar cuántos estudiantes aprobaron o reprobaron cada asignatura. (Nota aprobatoria ≥ 6).
